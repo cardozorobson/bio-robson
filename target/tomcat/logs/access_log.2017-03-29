@@ -1,4 +1,0 @@
-127.0.0.1 - - [29/Mar/2017:10:02:56 -0300] "GET /bio-robson HTTP/1.1" 302 - http-bio-8080-exec-1 0
-127.0.0.1 - - [29/Mar/2017:10:02:56 -0300] "GET /bio-robson/ HTTP/1.1" 200 87 http-bio-8080-exec-2 19
-127.0.0.1 - - [29/Mar/2017:10:02:56 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
-127.0.0.1 - - [29/Mar/2017:10:02:56 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
